@@ -1,0 +1,11 @@
+C:\Users\yoann\Documents\Csharp\TP3\ex23\bin\Debug\netcoreapp3.0\ex23.exe
+C:\Users\yoann\Documents\Csharp\TP3\ex23\bin\Debug\netcoreapp3.0\ex23.deps.json
+C:\Users\yoann\Documents\Csharp\TP3\ex23\bin\Debug\netcoreapp3.0\ex23.runtimeconfig.json
+C:\Users\yoann\Documents\Csharp\TP3\ex23\bin\Debug\netcoreapp3.0\ex23.runtimeconfig.dev.json
+C:\Users\yoann\Documents\Csharp\TP3\ex23\bin\Debug\netcoreapp3.0\ex23.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex23\bin\Debug\netcoreapp3.0\ex23.pdb
+C:\Users\yoann\Documents\Csharp\TP3\ex23\obj\Debug\netcoreapp3.0\ex23.csprojAssemblyReference.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex23\obj\Debug\netcoreapp3.0\ex23.AssemblyInfoInputs.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex23\obj\Debug\netcoreapp3.0\ex23.AssemblyInfo.cs
+C:\Users\yoann\Documents\Csharp\TP3\ex23\obj\Debug\netcoreapp3.0\ex23.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex23\obj\Debug\netcoreapp3.0\ex23.pdb

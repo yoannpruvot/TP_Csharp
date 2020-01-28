@@ -1,0 +1,11 @@
+C:\Users\yoann\Documents\Csharp\TP3\ex19\bin\Debug\netcoreapp3.0\ex19.exe
+C:\Users\yoann\Documents\Csharp\TP3\ex19\bin\Debug\netcoreapp3.0\ex19.deps.json
+C:\Users\yoann\Documents\Csharp\TP3\ex19\bin\Debug\netcoreapp3.0\ex19.runtimeconfig.json
+C:\Users\yoann\Documents\Csharp\TP3\ex19\bin\Debug\netcoreapp3.0\ex19.runtimeconfig.dev.json
+C:\Users\yoann\Documents\Csharp\TP3\ex19\bin\Debug\netcoreapp3.0\ex19.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex19\bin\Debug\netcoreapp3.0\ex19.pdb
+C:\Users\yoann\Documents\Csharp\TP3\ex19\obj\Debug\netcoreapp3.0\ex19.csprojAssemblyReference.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex19\obj\Debug\netcoreapp3.0\ex19.AssemblyInfoInputs.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex19\obj\Debug\netcoreapp3.0\ex19.AssemblyInfo.cs
+C:\Users\yoann\Documents\Csharp\TP3\ex19\obj\Debug\netcoreapp3.0\ex19.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex19\obj\Debug\netcoreapp3.0\ex19.pdb

@@ -1,0 +1,11 @@
+C:\Users\yoann\Documents\Csharp\TP3\ex20\obj\Debug\netcoreapp3.0\ex20.csprojAssemblyReference.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex20\obj\Debug\netcoreapp3.0\ex20.AssemblyInfoInputs.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex20\obj\Debug\netcoreapp3.0\ex20.AssemblyInfo.cs
+C:\Users\yoann\Documents\Csharp\TP3\ex20\bin\Debug\netcoreapp3.0\ex20.exe
+C:\Users\yoann\Documents\Csharp\TP3\ex20\bin\Debug\netcoreapp3.0\ex20.deps.json
+C:\Users\yoann\Documents\Csharp\TP3\ex20\bin\Debug\netcoreapp3.0\ex20.runtimeconfig.json
+C:\Users\yoann\Documents\Csharp\TP3\ex20\bin\Debug\netcoreapp3.0\ex20.runtimeconfig.dev.json
+C:\Users\yoann\Documents\Csharp\TP3\ex20\bin\Debug\netcoreapp3.0\ex20.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex20\bin\Debug\netcoreapp3.0\ex20.pdb
+C:\Users\yoann\Documents\Csharp\TP3\ex20\obj\Debug\netcoreapp3.0\ex20.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex20\obj\Debug\netcoreapp3.0\ex20.pdb

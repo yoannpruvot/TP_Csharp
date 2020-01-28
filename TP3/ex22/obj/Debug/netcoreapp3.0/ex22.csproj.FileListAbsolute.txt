@@ -1,0 +1,11 @@
+C:\Users\yoann\Documents\Csharp\TP3\ex22\obj\Debug\netcoreapp3.0\ex22.csprojAssemblyReference.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex22\obj\Debug\netcoreapp3.0\ex22.AssemblyInfoInputs.cache
+C:\Users\yoann\Documents\Csharp\TP3\ex22\obj\Debug\netcoreapp3.0\ex22.AssemblyInfo.cs
+C:\Users\yoann\Documents\Csharp\TP3\ex22\bin\Debug\netcoreapp3.0\ex22.exe
+C:\Users\yoann\Documents\Csharp\TP3\ex22\bin\Debug\netcoreapp3.0\ex22.deps.json
+C:\Users\yoann\Documents\Csharp\TP3\ex22\bin\Debug\netcoreapp3.0\ex22.runtimeconfig.json
+C:\Users\yoann\Documents\Csharp\TP3\ex22\bin\Debug\netcoreapp3.0\ex22.runtimeconfig.dev.json
+C:\Users\yoann\Documents\Csharp\TP3\ex22\bin\Debug\netcoreapp3.0\ex22.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex22\bin\Debug\netcoreapp3.0\ex22.pdb
+C:\Users\yoann\Documents\Csharp\TP3\ex22\obj\Debug\netcoreapp3.0\ex22.dll
+C:\Users\yoann\Documents\Csharp\TP3\ex22\obj\Debug\netcoreapp3.0\ex22.pdb
